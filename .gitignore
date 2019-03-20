@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+.tmp
+.jshintrc
+app/cert/cert.pem
+app/cert/key.pem
+npm-debug.log
+.vagrant/
+package-lock.json
+app/public/assets
+app/public/static
