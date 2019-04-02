@@ -10,7 +10,7 @@ The current iteration of the Telus Health Master Server List website is a custom
 To view the application/site check out the below URL: <br/>
 https://masterserverlist.learningautomation.io:54003
 
-#### Note: That this is an example of what I had built in production. Server information listed on the site is using dummy data and not actual real server names, ips, etc.
+#### Note: That this is an example of what I had built in production and doesn't include the entire codebase. Some things have been intentionally left out. Server information listed on the site is using dummy data and not actual real server names, ips, etc.
 
 To see the frontend code this my other Git Repo:<br/>
 https://github.com/learning-automation/masterserverlist-frontend-vuejs
